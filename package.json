@@ -1,0 +1,24 @@
+{
+  "name": "ten_js_algorithms",
+  "version": "1.0.0",
+  "description": "In this package I will publish the implementation of the most popular algorithms in JavaScript (ES6). New algorithms will be gradually added in the process of mastering by me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iaroslavrul/JS_Algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "JS",
+    "JavaScript"
+  ],
+  "author": "yru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iaroslavrul/JS_Algorithms/issues"
+  },
+  "homepage": "https://github.com/Iaroslavrul/JS_Algorithms#readme"
+}
